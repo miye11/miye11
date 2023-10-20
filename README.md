@@ -1,3 +1,13 @@
+# 웹퍼블리셔 지망생 : 박 미예
+## I want to become a web designer who takes on various challenges.
+깃허브 프로필 소개입니다.
+
+저의 경력과 스킬&툴, 포트폴리오등의 내용이 들어있습니다!
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm miye park</h1>
 <h3 align="center">I'm working in web design.</h3>
 
