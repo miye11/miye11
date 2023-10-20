@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm miye park</h1>
 <h3 align="center">I'm working in web design.</h3>
 
-- 🔭 I’m currently working on [CGV - recoding](https://parkmiye.github.io/cgv/)
+- 🔭 I’m currently working on [CGV - recode](https://parkmiye.github.io/cgv/)
 
 - 🌱 I’m currently learning **웹 디자인, 웹 퍼블리셔 전문가 5개월 과정 수료**
 
-- 👯 I’m looking to collaborate on [GONGGHA - recoding](https://parkmiye.github.io/gongcha/)
+- 👯 I’m looking to collaborate on [GONGGHA - recode](https://parkmiye.github.io/gongcha/)
 
-- 🤝 I’m looking for help with **ARTBOX - recoding**
+- 🤝 I’m looking for help with **ARTBOX - recode**
 
 - 📫 How to reach me **mysg0609@naver.com**
 
